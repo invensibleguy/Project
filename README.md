@@ -1,6 +1,6 @@
 # Project
 The project is created using Html, Css, Javasript. This project helps the students to get courses at less price, the website contains four pages namely Home, About, Courses, Contact Us, a Search bar is also provided to help the students search their relevent/desired course. Using this website Students can enroll in their desired course and complete as per their schedule at their convinent time and at their convinent place which is Learn on the GO process
-## This is the Link to the Project: [https://brave-water-02a44d210.1.azurestaticapps.net/contact.html](https://brave-water-02a44d210.1.azurestaticapps.net/index.html)
+## This is the Link to the Project:(https://brave-water-02a44d210.1.azurestaticapps.net/index.html)
 
 ## Home Page
 ![Home](https://user-images.githubusercontent.com/95622465/173628239-da703d62-b8bc-45b4-bb98-07695fe90de5.png)
@@ -14,3 +14,5 @@ The project is created using Html, Css, Javasript. This project helps the studen
 ## Contact
 ![pika-2022-06-14T16_34_11 356Z](https://user-images.githubusercontent.com/95622465/173629894-86fec25d-e4da-4649-b48c-19fca8ebb76a.png)
 
+## Azure Static App
+The Azure Static App Service has been used in this Project, as this service helps in building and deploying of full stack web apps to Azure from a code repository
